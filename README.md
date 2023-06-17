@@ -1,16 +1,20 @@
 <h1 align="center">Hi, I'm Guilherme Januário ☕</h1>
-<h3 align="center">A developer from Brazil</h3>
+<h3 align="left">A developer from Brazil</h3>
 
-- 📚 I’m currently learning **Java, Kotlin, Springboot, Python and SQL**;
+- 📚 I’m currently learning **Java, C#, Kotlin, Springboot, Python and SQL**;
 - 👂 I’m PwD with partial bilateral hearing loss;
 
-<h3 align="left">Connect with me:</h3>
-<p align="center">
-<a href = "https://www.linkedin.com/in/guilherme-janu%C3%A1rio/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
-</p>
+ </br></br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> 
+<div>
+   <a href="https://github.com/guiijanuario">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=guiijanuario&show_icons=true&theme=github_dark"/> 
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiijanuario&theme=github_dark&layout=compact"/>
+</div>
+
+## Languages and Tools
+</br>
+<p align="left"> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
@@ -31,3 +35,10 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
+
+</br>
+
+## Connect with me:
+<p align="left">
+<a href = "https://www.linkedin.com/in/guilherme-janu%C3%A1rio/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+</p>
